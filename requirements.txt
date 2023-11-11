@@ -2,3 +2,5 @@ altair
 pandas
 streamlit
 boto3
+numpy
+json
