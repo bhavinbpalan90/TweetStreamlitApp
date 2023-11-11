@@ -4,7 +4,6 @@ import pandas as pd
 import streamlit as st
 from PIL import Image
 import boto3
-import json
 
 st.set_page_config(layout="wide")
 
