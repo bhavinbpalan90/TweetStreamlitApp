@@ -2,4 +2,3 @@ altair
 pandas
 streamlit
 boto3
-json
