@@ -8,8 +8,8 @@ import boto3
 st.set_page_config(layout="wide")
 
 dynamo_client  =  boto3.resource(service_name = "dynamodb",region_name = "us-east-1",
-               aws_access_key_id = "AKIA2VPJSHXG7T5PQ5WM",
-               aws_secret_access_key = "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")
+               aws_access_key_id = "",
+               aws_secret_access_key = "/")
 
 dynamo_client.get_available_subresources()
 
