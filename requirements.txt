@@ -2,3 +2,8 @@ altair
 pandas
 streamlit
 boto3
+json
+st_aggrid
+requests
+time
+PIL
